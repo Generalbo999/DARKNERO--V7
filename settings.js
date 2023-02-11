@@ -16,15 +16,15 @@ global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
 global.alivepic = `https://i.ibb.co/K0RtK0Z/IMG-20221021-WA0089.jpg `
-global.owner = ['8547120106'] //ur owner number
+global.owner = ['917 893-29-56'] //ur owner number
 global.ownername = "Navaneeth manoj " //ur owner name
 global.ytname = "YT: kavee" //ur yt chanel name
 global.socialm = "Dark Nero" //ur github or insta name
 global.location = "Sri Lanka, Gampaha, Kurunegala" //ur location
 
 //bot bomdy 
-global.ownernomer = "8547120106" //ur number
-global.premium = ['8547120106'] //ur premium number
+global.ownernomer = "917 893-29-56" //ur number
+global.premium = ['917 893-29-56'] //ur premium number
 global.botname = 'DarkNero Bot MD V7' //ur bot name
 global.linkz = "https://chat.whatsapp.com/GkAmtuJ4jFE6axiNjoSiCX" //your theme url which will be displayed on whatsapp
 global.websitex = "https://www.youtube.com/@kaveebroyt5303" //ur website to be displayed
